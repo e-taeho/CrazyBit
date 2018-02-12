@@ -1,2 +1,0 @@
-# CrazyBit
-WPF / Soket
